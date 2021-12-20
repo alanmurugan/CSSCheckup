@@ -1,0 +1,51 @@
+#box {
+    border: 5px dashed navy;
+    margin: 50px 200px 200px 200px;
+    padding: 20px 20px 20px 40px;
+}
+
+#box2 {
+    border: 10px double slateblue;
+    margin: 100px 100px 100px 100px;
+    padding: 40px 40px 40px 40px;
+    background-color: lightgray
+}
+
+#box3 {
+    border: 20px groove chocolate;
+    margin: 20px 20px 20px 20px;
+    padding: 100px 100px 100px 100px;
+    background-color: cornsilk;
+}
+.box-style {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 5px 10px 20px 0;
+    padding: 10px
+}
+
+.final-style {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 20px 20px 20px;
+
+}
+
+p {
+    height: 50px;
+    background-color: black;
+    color: white;
+    border: 2px solid lightblue
+}
+
+h3 {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 200px;
+    background-color: lemonchiffon;
+    border: 3px solid navy
+}
